@@ -134,6 +134,7 @@
       'picker.time': 'node_modules/pickadate/lib/picker.time',
       'select2': 'node_modules/select2/select2',
       'sinon': 'node_modules/sinon/pkg/sinon',
+      'Sortable': 'node_modules/@shopify/draggable/lib/es5/sortable', // Need to be registered with uppercase since it already registered itself with uppercase.
       'text': 'node_modules/requirejs-text/text',
       'tinymce': 'node_modules/tinymce-builded/js/tinymce/tinymce',
       'tinymce-modern-theme': 'node_modules/tinymce-builded/js/tinymce/themes/modern/theme',
